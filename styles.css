@@ -3,7 +3,7 @@
 .flexbox{
 	display:flex;
 	background-color:blue;
-	flex-wrap:nowrap;
+	flex-wrap:wrap;
 	flex-direction:row;
 }
 .flexbox>div{
