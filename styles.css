@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
-.container{
+.flexbox{
 	display:flex;
 	background-color:blue;
 	flex-wrap:nowrap;
+	flex-direction:row;
 }
-.container >div{
+.flexbox>div{
 	background-color: #f1f1f1;
   width: 100px;
   margin: 10px;
